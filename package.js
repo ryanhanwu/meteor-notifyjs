@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'ryanwu:meteor-notefyjs',
+	name: 'ryanwu:meteor-notifyjs',
 	version: '0.1.0',
 	// Brief, one-line summary of the package.
 	summary: 'A simple, versatile jQuery notification library',
@@ -13,5 +13,5 @@ Package.describe({
 Package.onUse(function(api) {
 	api.versionsFrom('1.1.0.3');
 	api.use('jquery', 'client');
-	api.add_files('lib/notifyjs/notify-combined.min.js', 'client');
+  api.add_files('lib/notifyjs/dist/notify-combined.min.js', 'client');
 });
