@@ -1,0 +1,3 @@
+[submodule "lib/notifyjs"]
+	path = lib/notifyjs
+	url = https://github.com/jpillora/notifyjs.git
