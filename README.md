@@ -1,4 +1,4 @@
-[![Meteor Icon](http://icon.meteor.com/package/ryanwu:meteor-notefyjs)](https://atmospherejs.com/ryanwu/meteor-notefyjs)
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:meteor-notifyjs)](https://atmospherejs.com/ryanwu/meteor-notifyjs)
 
 # Meteor Notify.js Package
 
@@ -9,7 +9,7 @@ This is a [meteor](https://www.meteor.com/) package which contains lastest versi
 
 ## Installation
 ```
-meteor add ryanwu:meteor-notefyjs
+meteor add ryanwu:meteor-notifyjs
 ```
 
 ## Dependancy
