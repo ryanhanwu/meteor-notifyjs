@@ -1,3 +1,5 @@
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:meteor-notefyjs)](https://atmospherejs.com/ryanwu/meteor-notefyjs)
+
 # Meteor Notify.js Package
 
 ## About
